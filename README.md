@@ -3,6 +3,8 @@ This repository contains the full analysis pipeline for mapping and analyzing wa
 
 ---
 
+![Area Level Deprivation & Places Disability](Rplot02.png)
+
 ## Project Overview
 
 This R-based analysis includes:
